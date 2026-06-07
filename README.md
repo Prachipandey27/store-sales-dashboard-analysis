@@ -1,4 +1,7 @@
 # Store Sales Dashboard Analysis
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ## Project Overview
 
